@@ -6,6 +6,8 @@ To begin the experience, users will find themselves in a NASA hangar where they 
 
 Link to the video: https://youtu.be/hYw6LbOzXUY
 
+[Youtube video](https://youtu.be/hYw6LbOzXUY)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYw6LbOzXUY" frameborder="0" allowfullscreen></iframe>
 
 ## Notes
