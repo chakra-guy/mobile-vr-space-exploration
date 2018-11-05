@@ -1,4 +1,4 @@
-# space-exploration-udacity-mobile-vr
+# Interactive Mobile VR Space Exploration Experience
 
 ## Introduction
 This is my Udacity capstone project, it's an interactive mobile VR space exploration experience where users can explore three different space related scenes. 
